@@ -1,0 +1,17 @@
+H1{
+    font-size: 30PX;
+    color: aliceblue;
+    font-style: italic;
+    text-align: center;
+    
+}
+p{
+    color: aliceblue;
+    font-size: 15px;
+}
+button{
+    
+}
+.carousel slide{
+    height: 300px;
+}
